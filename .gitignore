@@ -1,0 +1,8 @@
+misc.xml
+modules.xml
+vcs.xml
+**/.idea/*
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+default.tfvars
